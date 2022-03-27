@@ -9,8 +9,8 @@
 </p>
 <br>
 
-🎬 Para acessar os vídeos gerados com base nos testes desenvolvidos, entre na pasta **/cypress/videos** ou pelo link abaixo: 🎬<br>
-[<ins>Videos gerados</ins>](https://github.com/caioliveira277/cypress-cod3r/tree/main/cypress/videos)
+🎬 Para visualizar os vídeos gerados dos testes desenvolvidos, acesse o link abaixo: 🎬<br>
+[<ins>Videos gerados</ins>](https://caioliveira277.github.io/cypress-cod3r/)
 
 <br>
 
