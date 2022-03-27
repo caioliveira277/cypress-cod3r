@@ -1,0 +1,20 @@
+{
+  "name": "curso-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.2"
+  },
+  "devDependencies": {
+    "cypress-dark": "^1.8.3",
+    "cypress-xpath": "^1.6.2"
+  }
+}
